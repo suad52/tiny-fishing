@@ -1,0 +1,43 @@
+{
+  "properties": {
+    "ExplorerIconContent": {
+      "Content": "None"
+    },
+    "SerializedOverrides": {
+      "BinaryString": ""
+    }
+  },
+  "attributes": {
+    "AtmDensity": 0.0,
+    "FogColor": {
+      "Color3": [
+        0.75294125,
+        0.75294125,
+        0.75294125
+      ]
+    },
+    "FogEnd": 100000.0,
+    "FogStart": 0.0,
+    "HadAtmosphere": true,
+    "HadSky": true,
+    "Script_BackdropFX": false,
+    "Script_DepthStrata": false,
+    "Script_SeaFX": false,
+    "Taken": "2026-07-21T18:33:56Z",
+    "WB_Pos": {
+      "Vector3": [
+        0.0,
+        -135.0,
+        -3.0
+      ]
+    },
+    "WB_Size": {
+      "Vector3": [
+        420.0,
+        270.0,
+        1.0
+      ]
+    },
+    "WB_Trans": 0.0
+  }
+}

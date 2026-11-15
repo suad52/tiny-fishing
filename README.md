@@ -2,6 +2,8 @@
 
 A Roblox fishing game, with its source managed through [Rojo](https://rojo.space).
 
+Play it on Roblox: https://www.roblox.com/games/83205688837463/Tiny-Fishing
+
 ## What's here
 
 - `src/ServerScriptService` - server game logic and services
@@ -20,3 +22,4 @@ rojo build -o TinyFishing.rbxlx
 ```
 
 Or run `rojo serve` and connect from the Rojo plugin in Studio.
+
